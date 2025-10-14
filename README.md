@@ -1,1 +1,1 @@
-Esse script implementa um fluxo completo de classificação de risco de crédito usando SVM (Support Vector Machine). Um classificador SVM (Support Vector Machine) é um algoritmo de aprendizado de máquina supervisionado usado principalmente para problemas de classificação.
+Esse script implementa um fluxo completo de classificação de risco de crédito usando SVM (Support Vector Machine). Um classificador SVM é um algoritmo de aprendizado de máquina supervisionado usado principalmente para problemas de classificação.
